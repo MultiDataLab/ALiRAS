@@ -6,7 +6,7 @@ CNNmodel_audioQuality.h5
 
 CNNmodel_breath.h5
 
-## MORE INFORMATION PLEASE ALSO VISIT THE PRE_PRINT CODES HERE: https://github.com/MultiDataLab/ALDAS
+## FOR MORE INFORMATION PLEASE ALSO VISIT THE PRE_PRINT CODES HERE: https://github.com/MultiDataLab/ALDAS
 ## DATASETS
 AUTO-LABELING Training audio files (only used to create the auto-labeling part): https://drive.google.com/drive/folders/1P8BtVEzbf_G8ZTZhEf8sxGQ1uY0YPKJM?usp=sharing  
 
